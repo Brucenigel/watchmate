@@ -111,8 +111,8 @@ DATABASES = {
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "http://yourfrontenddomain.com",
+    "https://watchmate-be.onrender.com/",
+    "https://bruce-watch.netlify.app/",
 ]
 
 
